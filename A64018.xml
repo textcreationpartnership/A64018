@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from two gentlemen lately come from Ireland, and landed in Scotland to a person of quality of Ireland now in London, giving an account of some affairs relating to the present state of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64018</idno>
+            <idno type="STC">Wing T3466</idno>
+            <idno type="STC">ESTC R225605</idno>
+            <idno type="EEBO-CITATION">12874458</idno>
+            <idno type="OCLC">ocm 12874458</idno>
+            <idno type="VID">94814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from two gentlemen lately come from Ireland, and landed in Scotland to a person of quality of Ireland now in London, giving an account of some affairs relating to the present state of Ireland.</title>
+                  <author>W. S.</author>
+                  <author>P. J.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>Signed: W.S. and P.J.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb n="1" facs="tcp:94814:1"/>
+            <head>TWO LETTERS From Two Gentlemen lately come from IRELAND, AND LANDED IN SCOTLAND.</head>
+            <head type="sub">To a Perſon of Quality of <hi>Ireland</hi> now in <hi>London;</hi> Gi<g ref="char:EOLhyphen"/>ving an Account of ſome Affairs relating to the Preſent State of <hi>Ireland.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed and Entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="letter">
+               <head>
+                  <hi>Glaſgow, July</hi> 9. 1689.</head>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>I Have forborn writing to you, ex<g ref="char:EOLhyphen"/>pecting to have been furniſhed with an Exact Account of Af<g ref="char:EOLhyphen"/>fairs in and about <hi>Londonderry:</hi> but as yet no ſuch thing is come to our hands, neither can we be certain<g ref="char:EOLhyphen"/>ly informed, whether the Relief be got in there, or not, becauſe no Ships have of late come from thence. But by Fiſhing-boats, and other ſhiſts, ſe<g ref="char:EOLhyphen"/>veral of your Tenants are come to this Place, who give this Account: That the Proteſtants all about the Sea<g ref="char:EOLhyphen"/>ſide, are commanded and forced to re<g ref="char:EOLhyphen"/>move to the Mountains, for fear that if an Army from <hi>England</hi> ſhould land there, they would join with them. There is one Mr. <hi>Montgomery</hi> come to this Town from <hi>Ireland,</hi> who had ſe<g ref="char:EOLhyphen"/>veral Protections from the late King <hi>James,</hi> and from all his Generals; not<g ref="char:EOLhyphen"/>withſtanding which, he was forced to leave the Countrey, and make his Eſcape, being warned by ſome of his Friends (who are <hi>Roman-Catholicks</hi>) That a general Maſſacre of the Pro<g ref="char:EOLhyphen"/>teſtants was intended; and that it would have been ſo before this time, but that the Pope writ Letters to the <hi>Iriſh,</hi> to forbear till a more ſit Oppor<g ref="char:EOLhyphen"/>tunity. That the <hi>Iriſh</hi> Clergy and Gentry being earneſt to have it done out of hand, King <hi>James</hi> was againſt it; but at laſt they had prevailed with him to conſent to it; and it had been put in Execution, had not the Pope's Order given a Reſpit to it. You may gueſs what a miſerable Condition the poor Proteſtants there are in: God in his Infinite Mercy relieve them. I am,</p>
+               <closer>
+                  <signed>Your moſt Humble Servant, <hi>W. S.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>POSTSCRIPT.</head>
+                  <p>Juſt as I was about to cloſe this Let<g ref="char:EOLhyphen"/>ter, I received certain Intelligence, That the Ships are not yet got into <hi>Londonderry;</hi> That on <hi>Friday</hi> laſt was ſeven-night the <hi>Londonderry</hi> men ſal<g ref="char:EOLhyphen"/>ly'd out, and kill'd 150 of the Enemy juſt before the Walls; That Major-General <hi>Kirk</hi> hath ſupplied the People of <hi>Iniskillin</hi> with Arms and Ammuni<g ref="char:EOLhyphen"/>tion, who came out of their Hold as
+<pb n="2" facs="tcp:94814:2"/>far as <hi>Ballynefea,</hi> and drove the <hi>Iriſh</hi> before them; That <hi>Ballyſhannon</hi> holds out, and likewife <hi>Donegal;</hi> That Ma<g ref="char:EOLhyphen"/>jor-General <hi>Kirk</hi> has put 700 Men in<g ref="char:EOLhyphen"/>to the Iſland of <hi>Ince,</hi> who, together with the Proteſtants already there, will make up a handſom Party; That the Enemy have burnt <hi>Letterkenny,</hi> and moſt of the Gentlemens Houſes in <hi>Eniſhowen;</hi> That they have burnt <hi>New<g ref="char:EOLhyphen"/>town,</hi> and many other Towns in the County of <hi>Londonderry;</hi> which, tho it be to your great loſs, and many o<g ref="char:EOLhyphen"/>ther Gentlemen, yet it looks as if they had not intention to ſtay long in that Countrey: which I pray God grant.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>IRWYN, July</hi> 8. 1689.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THis Afternoon Captain <hi>Vaughan</hi> of <hi>Breneranagh,</hi> Mr. <hi>Humble,</hi> and Mr. <hi>Wray,</hi> and ſeveral others, came to this place. They left the Fleet on <hi>Saturday</hi> laſt, which at that time could not get up to <hi>Londonderry,</hi> by reaſon of a Boom laid croſs the River from <hi>Pennyburn-Mill.</hi> That Mr. <hi>Browning</hi> would have adventured to go up, but Major-General <hi>Kirk</hi> would not ſuffer him till a more convenient opportuni<g ref="char:EOLhyphen"/>ty, having ſome other Deſign in hand. The Gentlemen of <hi>Donegal,</hi> (with the leave and order of the Major General) took two Men of War along with them, with intent to land a good number of Men at the Iſland of <hi>Ince,</hi> and there to intrench themſelves: In the Logh they met Sir <hi>James Caldwall</hi> coming to the Fleet, to give an Account, That the Men of <hi>Iniskillin</hi> hold out bravely, but were ſtreightned in Ammunition; whereupon the Major-General ſent them a large and handſom Supply. <hi>Ballyſhannon</hi> holds out, and ſo doth <hi>Donegal,</hi> under the Care of Sir <hi>Albert Coningham;</hi> and another place, of which I have forgot the Name. By the en<g ref="char:EOLhyphen"/>couragement of the Frigats lying in <hi>Logh-Foyl; Iniskillin, Donegal,</hi> and the Fleet, hold a conſtant Correſpondence. There are in <hi>Iniskillin</hi> Four thouſand Horſe and Foot well armed, and Four thouſand more good Men that wanted Arms, but are now ſupplied from Ma<g ref="char:EOLhyphen"/>jor-General <hi>Kirk.</hi> On <hi>Friday</hi> laſt was ſeven-night there was a ſharp Engage<g ref="char:EOLhyphen"/>ment between the Gariſon of <hi>London<g ref="char:EOLhyphen"/>derry</hi> and the <hi>Iriſh;</hi> in which the Ene<g ref="char:EOLhyphen"/>my loſt a Hundred and fifty Men, ſome ſay more. The People of <hi>Londonderry</hi> are Maſters of the <hi>Wind-mill-Hill.</hi> The Sheriff of the County of <hi>Donegal,</hi> with ſome Forces, is now burning all the Gentlemens Houſes in that Coun<g ref="char:EOLhyphen"/>trey. Your Houſe is alſo burnt to the ground, and all your Land depopula<g ref="char:EOLhyphen"/>ted, and moſt part of all that County. The Proteſtants are driven like Sheep to the ſlaughter. <hi>Brian O Cahan,</hi> the Titular Dean of <hi>Derry,</hi> is Commander in Chief in that County, having a Guard of Rogues about him, and does what he pleaſeth there. The City of <hi>Londonderry</hi> received full Intelligence from the Fleet, by a Man who ſwam over the River from about Alderman <hi>Tomkins</hi> his Houſe.</p>
+               <closer>
+                  <signed>Your Humble Servant, <hi>P. J.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <list>
+               <item>
+                  <hi>The Anſwer of a Proteſtant Gentleman in</hi> Ireland, <hi>to a late Letter from</hi> N. N. <hi>upon a late Diſcourſe between them concerning the preſent Poſture of that Countrey, and the Part fit for thoſe concerned there, to Act in it.</hi>
+               </item>
+               <item>
+                  <hi>An Apology for the Proteſtants of Ire<g ref="char:EOLhyphen"/>land, in a Brief Narrative of the late Revolutions in that Kingdom, and an Account of the Preſent State thereof.</hi>
+               </item>
+               <item>
+                  <hi>The Intereſt of</hi> England <hi>in the Preſer<g ref="char:EOLhyphen"/>vation of</hi> Ireland; <hi>humbly Preſented to the Parliament of</hi> England. By <hi>J. P.</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+            </list>
+            <p>All Three Printed for <hi>Ric. Chiſwell.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Ric. Chiſwell</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
